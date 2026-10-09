@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:36:23.403Z",
+  "updatedAt": "2026-10-09T13:36:29.221Z",
   "problems": [
     {
       "frontendId": "12",
@@ -384,6 +384,26 @@
           "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.cpp",
           "sha": "d3cd616e4dda6ccd0b632e04038c1eda5e736525",
           "lastSyncedAt": "2026-10-09T13:35:26.935Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "problemName": "1832-check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "folderPath": "1832-check-if-the-sentence-is-pangram/",
+      "readmePath": "1832-check-if-the-sentence-is-pangram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1832-check-if-the-sentence-is-pangram.cpp",
+          "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
+          "sha": "6830e98567b0f3bb322cb4830830082232a5d3da",
+          "lastSyncedAt": "2026-10-09T13:36:29.221Z"
         }
       ]
     },
