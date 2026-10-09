@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-09T13:38:15.214Z",
+  "updatedAt": "2026-10-09T13:38:27.824Z",
   "problems": [
     {
       "frontendId": "210",
@@ -24,6 +24,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
           "sha": "86450b33677b7653a9f732ac48ab02ba9f569e5a",
           "lastSyncedAt": "2026-10-09T13:38:15.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0547-number-of-provinces.cpp",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.cpp",
+          "sha": "a98c74aa8f608ce9fd4bdd668646ec47422039cc",
+          "lastSyncedAt": "2026-10-09T13:38:27.824Z"
         }
       ]
     },
