@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-09T13:33:03.993Z",
+  "updatedAt": "2026-10-09T13:33:40.339Z",
   "problems": [
     {
       "frontendId": "15",
@@ -44,6 +44,26 @@
           "path": "0016-3sum-closest/0016-3sum-closest.cpp",
           "sha": "66a007b86ee53d6db2535ff7285e43f21d4bf9d7",
           "lastSyncedAt": "2026-10-09T13:32:35.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+          "sha": "38df368557c177c0dc081042c764810a96b13996",
+          "lastSyncedAt": "2026-10-09T13:33:40.339Z"
         }
       ]
     },
