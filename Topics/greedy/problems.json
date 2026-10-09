@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-09T13:39:20.171Z",
+  "updatedAt": "2026-10-09T13:41:44.901Z",
   "problems": [
     {
       "frontendId": "409",
@@ -44,6 +44,26 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "0c1b7cce2b1ee7c312ed8c2507bc9cd246444a1c",
           "lastSyncedAt": "2026-10-09T13:39:20.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "problemName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "folderPath": "3302-find-the-lexicographically-smallest-valid-sequence/",
+      "readmePath": "3302-find-the-lexicographically-smallest-valid-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "sha": "787083d3235f976819e093e771a95f3c6b132790",
+          "lastSyncedAt": "2026-10-09T13:41:44.901Z"
         }
       ]
     }
