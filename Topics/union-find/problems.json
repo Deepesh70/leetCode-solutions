@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "union-find",
+    "name": "Union-Find",
+    "tagId": "23"
+  },
+  "updatedAt": "2026-10-09T13:37:28.665Z",
+  "problems": [
+    {
+      "frontendId": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "problemName": "1319-number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "folderPath": "1319-number-of-operations-to-make-network-connected/",
+      "readmePath": "1319-number-of-operations-to-make-network-connected/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1319-number-of-operations-to-make-network-connected.cpp",
+          "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
+          "sha": "401f0ae56f9ef21c9822a1b5c4dbc409fbeab3ea",
+          "lastSyncedAt": "2026-10-09T13:37:28.665Z"
+        }
+      ]
+    }
+  ]
+}
