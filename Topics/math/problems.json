@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:39:01.525Z",
+  "updatedAt": "2026-10-09T13:39:20.171Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "0899-orderly-queue/0899-orderly-queue.cpp",
           "sha": "71dd15ffe199b159426cad6038af7efb5ccb3a7c",
           "lastSyncedAt": "2026-10-09T13:35:41.883Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "0c1b7cce2b1ee7c312ed8c2507bc9cd246444a1c",
+          "lastSyncedAt": "2026-10-09T13:39:20.171Z"
         }
       ]
     }
