@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-09T13:36:14.081Z",
+  "updatedAt": "2026-10-09T13:36:29.221Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp",
           "sha": "c0e0358c96d5aea365c88423891d1b646446415d",
           "lastSyncedAt": "2026-10-09T13:35:15.163Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "problemName": "1832-check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "folderPath": "1832-check-if-the-sentence-is-pangram/",
+      "readmePath": "1832-check-if-the-sentence-is-pangram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1832-check-if-the-sentence-is-pangram.cpp",
+          "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
+          "sha": "6830e98567b0f3bb322cb4830830082232a5d3da",
+          "lastSyncedAt": "2026-10-09T13:36:29.221Z"
         }
       ]
     },
