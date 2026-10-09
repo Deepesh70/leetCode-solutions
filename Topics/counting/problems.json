@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-09T13:35:26.935Z",
+  "updatedAt": "2026-10-09T13:39:20.171Z",
   "problems": [
     {
       "frontendId": "383",
@@ -84,6 +84,26 @@
           "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.cpp",
           "sha": "d3cd616e4dda6ccd0b632e04038c1eda5e736525",
           "lastSyncedAt": "2026-10-09T13:35:26.935Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "0c1b7cce2b1ee7c312ed8c2507bc9cd246444a1c",
+          "lastSyncedAt": "2026-10-09T13:39:20.171Z"
         }
       ]
     }
