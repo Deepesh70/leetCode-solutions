@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:42:24.901Z",
+  "updatedAt": "2026-10-09T13:42:40.188Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "0365-water-and-jug-problem/0365-water-and-jug-problem.cpp",
           "sha": "50d0bb6992968f4f1d9376943c6a69ab5c5b79b3",
           "lastSyncedAt": "2026-10-09T13:40:24.213Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "57bac44c3a751d3bc01dfb73ad71634482f13217",
+          "lastSyncedAt": "2026-10-09T13:42:40.188Z"
         }
       ]
     },
