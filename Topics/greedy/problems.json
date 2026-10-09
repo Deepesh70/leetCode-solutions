@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-09T13:31:26.967Z",
+  "updatedAt": "2026-10-09T13:39:20.171Z",
   "problems": [
     {
       "frontendId": "409",
@@ -24,6 +24,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.cpp",
           "sha": "3d2254d122a7b3c0a07907cc35fc6c2e583f9ab5",
           "lastSyncedAt": "2026-10-09T13:31:26.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "0c1b7cce2b1ee7c312ed8c2507bc9cd246444a1c",
+          "lastSyncedAt": "2026-10-09T13:39:20.171Z"
         }
       ]
     }
