@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:35:15.163Z",
+  "updatedAt": "2026-10-09T13:35:26.935Z",
   "problems": [
     {
       "frontendId": "28",
@@ -264,6 +264,26 @@
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp",
           "sha": "c0e0358c96d5aea365c88423891d1b646446415d",
           "lastSyncedAt": "2026-10-09T13:35:15.163Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "problemName": "1704-determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+      "folderPath": "1704-determine-if-string-halves-are-alike/",
+      "readmePath": "1704-determine-if-string-halves-are-alike/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1704-determine-if-string-halves-are-alike.cpp",
+          "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.cpp",
+          "sha": "d3cd616e4dda6ccd0b632e04038c1eda5e736525",
+          "lastSyncedAt": "2026-10-09T13:35:26.935Z"
         }
       ]
     },
