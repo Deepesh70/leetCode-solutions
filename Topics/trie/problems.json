@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "trie",
+    "name": "Trie",
+    "tagId": "27"
+  },
+  "updatedAt": "2026-10-09T13:34:03.682Z",
+  "problems": [
+    {
+      "frontendId": "472",
+      "title": "Concatenated Words",
+      "slug": "concatenated-words",
+      "problemName": "0472-concatenated-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenated-words/",
+      "folderPath": "0472-concatenated-words/",
+      "readmePath": "0472-concatenated-words/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0472-concatenated-words.cpp",
+          "path": "0472-concatenated-words/0472-concatenated-words.cpp",
+          "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
+          "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    }
+  ]
+}
