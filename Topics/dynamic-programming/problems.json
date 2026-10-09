@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-09T13:32:45.567Z",
+  "updatedAt": "2026-10-09T13:33:14.496Z",
   "problems": [
     {
       "frontendId": "42",
@@ -24,6 +24,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
           "sha": "8039fbd0b3a49d79db599dea57f68b8b1902d386",
           "lastSyncedAt": "2026-10-09T13:32:45.567Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2272",
+      "title": "Substring With Largest Variance",
+      "slug": "substring-with-largest-variance",
+      "problemName": "2272-substring-with-largest-variance",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-largest-variance/",
+      "folderPath": "2272-substring-with-largest-variance/",
+      "readmePath": "2272-substring-with-largest-variance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2272-substring-with-largest-variance.cpp",
+          "path": "2272-substring-with-largest-variance/2272-substring-with-largest-variance.cpp",
+          "sha": "6a40cb04e3b784b024501518d6a0601d2ceb0d88",
+          "lastSyncedAt": "2026-10-09T13:33:14.496Z"
         }
       ]
     }
