@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T13:34:42.706Z",
+  "updatedAt": "2026-10-09T13:34:50.810Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0472-concatenated-words/0472-concatenated-words.cpp",
           "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
           "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "944",
+      "title": "Delete Columns to Make Sorted",
+      "slug": "delete-columns-to-make-sorted",
+      "problemName": "0944-delete-columns-to-make-sorted",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted/",
+      "folderPath": "0944-delete-columns-to-make-sorted/",
+      "readmePath": "0944-delete-columns-to-make-sorted/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0944-delete-columns-to-make-sorted.cpp",
+          "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.cpp",
+          "sha": "f4c4553cd47847addb3bdde0d3fadad9ca0295b8",
+          "lastSyncedAt": "2026-10-09T13:34:50.810Z"
         }
       ]
     },
