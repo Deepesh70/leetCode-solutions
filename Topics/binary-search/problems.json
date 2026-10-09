@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-09T13:34:31.548Z",
+  "updatedAt": "2026-10-09T13:39:01.525Z",
   "problems": [
     {
       "frontendId": "167",
@@ -24,6 +24,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "a3f182b0340ce518ec9cca3355a2f4fe2858a494",
           "lastSyncedAt": "2026-10-09T13:34:31.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "43a18db5b36793e311798adb4d15d803ad722d84",
+          "lastSyncedAt": "2026-10-09T13:39:01.525Z"
         }
       ]
     }
