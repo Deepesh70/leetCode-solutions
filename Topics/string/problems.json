@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:43:11.688Z",
+  "updatedAt": "2026-10-09T13:43:25.221Z",
   "problems": [
     {
       "frontendId": "12",
@@ -484,6 +484,26 @@
           "path": "2272-substring-with-largest-variance/2272-substring-with-largest-variance.cpp",
           "sha": "6a40cb04e3b784b024501518d6a0601d2ceb0d88",
           "lastSyncedAt": "2026-10-09T13:33:14.496Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "sha": "0f1a20c5d56b748ea608e4bb25332a82f2e2b5b9",
+          "lastSyncedAt": "2026-10-09T13:43:25.221Z"
         }
       ]
     },
