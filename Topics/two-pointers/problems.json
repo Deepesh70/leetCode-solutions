@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-09T13:34:31.548Z",
+  "updatedAt": "2026-10-09T13:36:37.290Z",
   "problems": [
     {
       "frontendId": "15",
@@ -124,6 +124,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "a3f182b0340ce518ec9cca3355a2f4fe2858a494",
           "lastSyncedAt": "2026-10-09T13:34:31.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0443-string-compression.cpp",
+          "path": "0443-string-compression/0443-string-compression.cpp",
+          "sha": "098afaced3c917ec46b8e31f2d39505750c77890",
+          "lastSyncedAt": "2026-10-09T13:36:37.290Z"
         }
       ]
     }
