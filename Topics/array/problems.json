@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T13:34:50.810Z",
+  "updatedAt": "2026-10-09T13:36:00.928Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.cpp",
           "sha": "055360b4f53cedfd2827eb28cba3977644369aa5",
           "lastSyncedAt": "2026-10-09T13:31:20.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.cpp",
+          "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.cpp",
+          "sha": "b1d0943b7714f4b32968b684fe00e2db4c520ea3",
+          "lastSyncedAt": "2026-10-09T13:36:00.928Z"
         }
       ]
     }
