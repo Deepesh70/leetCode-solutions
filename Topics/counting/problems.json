@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-09T13:23:53.923Z",
+  "updatedAt": "2026-10-09T13:24:19.386Z",
   "problems": [
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "0383-ransom-note/",
+      "readmePath": "0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0383-ransom-note.cpp",
+          "path": "0383-ransom-note/0383-ransom-note.cpp",
+          "sha": "706a7f5716d2bd95f24bbeb707bb20334fc7e642",
+          "lastSyncedAt": "2026-10-09T13:24:19.386Z"
+        }
+      ]
+    },
     {
       "frontendId": "1128",
       "title": "Number of Equivalent Domino Pairs",
