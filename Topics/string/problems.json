@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:35:26.935Z",
+  "updatedAt": "2026-10-09T13:35:34.753Z",
   "problems": [
     {
       "frontendId": "28",
@@ -244,6 +244,26 @@
           "path": "0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.cpp",
           "sha": "f4c4553cd47847addb3bdde0d3fadad9ca0295b8",
           "lastSyncedAt": "2026-10-09T13:34:50.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1544",
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "problemName": "1544-make-the-string-great",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-the-string-great/",
+      "folderPath": "1544-make-the-string-great/",
+      "readmePath": "1544-make-the-string-great/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1544-make-the-string-great.cpp",
+          "path": "1544-make-the-string-great/1544-make-the-string-great.cpp",
+          "sha": "1c15bf1c1fb0485ae0b8b574a415ab2c0a8e1bec",
+          "lastSyncedAt": "2026-10-09T13:35:34.753Z"
         }
       ]
     },
