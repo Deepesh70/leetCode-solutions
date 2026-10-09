@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T13:31:20.910Z",
+  "updatedAt": "2026-10-09T13:32:01.535Z",
   "problems": [
     {
       "frontendId": "49",
@@ -24,6 +24,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "7d5a13fec59718c838c293250b9a5f136785ce8c",
           "lastSyncedAt": "2026-10-09T13:31:12.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0075-sort-colors.cpp",
+          "path": "0075-sort-colors/0075-sort-colors.cpp",
+          "sha": "04ca9706d2752d7fa808f6659c930db5b18d00a3",
+          "lastSyncedAt": "2026-10-09T13:32:01.535Z"
         }
       ]
     },
