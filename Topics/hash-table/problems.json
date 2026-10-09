@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-09T13:40:57.561Z",
+  "updatedAt": "2026-10-09T13:42:14.821Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
           "sha": "0a0f0127e571cd3b84ff611516c59482e1b05f19",
           "lastSyncedAt": "2026-10-09T13:38:52.978Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3731-find-missing-elements.cpp",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.cpp",
+          "sha": "a952464a41c6b36ecb1154446d51f418d34e9a26",
+          "lastSyncedAt": "2026-10-09T13:42:14.821Z"
         }
       ]
     }
