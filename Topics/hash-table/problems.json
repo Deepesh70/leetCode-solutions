@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-09T13:31:51.974Z",
+  "updatedAt": "2026-10-09T13:33:14.496Z",
   "problems": [
     {
       "frontendId": "49",
@@ -144,6 +144,26 @@
           "path": "1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.cpp",
           "sha": "055360b4f53cedfd2827eb28cba3977644369aa5",
           "lastSyncedAt": "2026-10-09T13:31:20.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2272",
+      "title": "Substring With Largest Variance",
+      "slug": "substring-with-largest-variance",
+      "problemName": "2272-substring-with-largest-variance",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-largest-variance/",
+      "folderPath": "2272-substring-with-largest-variance/",
+      "readmePath": "2272-substring-with-largest-variance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2272-substring-with-largest-variance.cpp",
+          "path": "2272-substring-with-largest-variance/2272-substring-with-largest-variance.cpp",
+          "sha": "6a40cb04e3b784b024501518d6a0601d2ceb0d88",
+          "lastSyncedAt": "2026-10-09T13:33:14.496Z"
         }
       ]
     }
