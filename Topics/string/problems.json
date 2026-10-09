@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:43:33.371Z",
+  "updatedAt": "2026-10-09T13:43:48.299Z",
   "problems": [
     {
       "frontendId": "12",
@@ -564,6 +564,26 @@
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "sha": "787083d3235f976819e093e771a95f3c6b132790",
           "lastSyncedAt": "2026-10-09T13:41:44.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "problemName": "3517-smallest-palindromic-rearrangement-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+      "folderPath": "3517-smallest-palindromic-rearrangement-i/",
+      "readmePath": "3517-smallest-palindromic-rearrangement-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3517-smallest-palindromic-rearrangement-i.cpp",
+          "path": "3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.cpp",
+          "sha": "c01671c9c9faf2e68ef9d0c49c4c57ca032396d4",
+          "lastSyncedAt": "2026-10-09T13:43:48.299Z"
         }
       ]
     },
