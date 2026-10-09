@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-10-09T13:35:07.565Z",
+  "problems": [
+    {
+      "frontendId": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "problemName": "0570-managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/",
+      "folderPath": "0570-managers-with-at-least-5-direct-reports/",
+      "readmePath": "0570-managers-with-at-least-5-direct-reports/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0570-managers-with-at-least-5-direct-reports.sql",
+          "path": "0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql",
+          "sha": "c052b8298deeb99df1b9b26b93ca7d6e67b976f0",
+          "lastSyncedAt": "2026-10-09T13:35:07.565Z"
+        }
+      ]
+    }
+  ]
+}
