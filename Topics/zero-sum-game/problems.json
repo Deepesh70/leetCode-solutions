@@ -5,8 +5,28 @@
     "name": "Zero-Sum Game",
     "tagId": "122082"
   },
-  "updatedAt": "2026-10-09T13:42:40.188Z",
+  "updatedAt": "2026-10-09T13:42:54.756Z",
   "problems": [
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0486-predict-the-winner.cpp",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.cpp",
+          "sha": "9a68f1a608d1e102414526dd027f2e2a1611107f",
+          "lastSyncedAt": "2026-10-09T13:42:54.756Z"
+        }
+      ]
+    },
     {
       "frontendId": "877",
       "title": "Stone Game",
