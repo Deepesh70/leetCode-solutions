@@ -5,8 +5,28 @@
     "name": "Zero-Sum Game",
     "tagId": "122082"
   },
-  "updatedAt": "2026-10-09T13:41:07.904Z",
+  "updatedAt": "2026-10-09T13:41:26.289Z",
   "problems": [
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1140-stone-game-ii.cpp",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
+          "sha": "b90b4b28e0aad32389620c66ca10bfda6fa69056",
+          "lastSyncedAt": "2026-10-09T13:41:26.289Z"
+        }
+      ]
+    },
     {
       "frontendId": "1510",
       "title": "Stone Game IV",
