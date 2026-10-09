@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-09T13:41:07.904Z",
+  "updatedAt": "2026-10-09T13:41:26.289Z",
   "problems": [
     {
       "frontendId": "42",
@@ -44,6 +44,26 @@
           "path": "0472-concatenated-words/0472-concatenated-words.cpp",
           "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
           "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1140-stone-game-ii.cpp",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
+          "sha": "b90b4b28e0aad32389620c66ca10bfda6fa69056",
+          "lastSyncedAt": "2026-10-09T13:41:26.289Z"
         }
       ]
     },
