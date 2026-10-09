@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-09T13:37:57.756Z",
+  "updatedAt": "2026-10-09T13:38:15.214Z",
   "problems": [
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0210-course-schedule-ii.cpp",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
+          "sha": "86450b33677b7653a9f732ac48ab02ba9f569e5a",
+          "lastSyncedAt": "2026-10-09T13:38:15.214Z"
+        }
+      ]
+    },
     {
       "frontendId": "785",
       "title": "Is Graph Bipartite?",
