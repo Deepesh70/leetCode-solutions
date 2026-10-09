@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-09T13:24:19.386Z",
+  "updatedAt": "2026-10-09T13:24:29.859Z",
   "problems": [
     {
       "frontendId": "49",
@@ -24,6 +24,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "7d5a13fec59718c838c293250b9a5f136785ce8c",
           "lastSyncedAt": "2026-10-09T13:23:34.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "0290-word-pattern/",
+      "readmePath": "0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0290-word-pattern.cpp",
+          "path": "0290-word-pattern/0290-word-pattern.cpp",
+          "sha": "533b906e62100e52964610adb92714521bc71769",
+          "lastSyncedAt": "2026-10-09T13:24:29.859Z"
         }
       ]
     },
