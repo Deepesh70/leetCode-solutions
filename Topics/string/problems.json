@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:35:34.753Z",
+  "updatedAt": "2026-10-09T13:35:41.883Z",
   "problems": [
     {
       "frontendId": "28",
@@ -224,6 +224,26 @@
           "path": "0859-buddy-strings/0859-buddy-strings.cpp",
           "sha": "942efa27efa73e67731b9cd51b7184b83f249f67",
           "lastSyncedAt": "2026-10-09T13:33:28.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "899",
+      "title": "Orderly Queue",
+      "slug": "orderly-queue",
+      "problemName": "0899-orderly-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/orderly-queue/",
+      "folderPath": "0899-orderly-queue/",
+      "readmePath": "0899-orderly-queue/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0899-orderly-queue.cpp",
+          "path": "0899-orderly-queue/0899-orderly-queue.cpp",
+          "sha": "71dd15ffe199b159426cad6038af7efb5ccb3a7c",
+          "lastSyncedAt": "2026-10-09T13:35:41.883Z"
         }
       ]
     },
