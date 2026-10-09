@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:23:34.242Z",
+  "updatedAt": "2026-10-09T13:24:05.799Z",
   "problems": [
     {
       "frontendId": "49",
@@ -24,6 +24,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "7d5a13fec59718c838c293250b9a5f136785ce8c",
           "lastSyncedAt": "2026-10-09T13:23:34.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "0409-longest-palindrome/",
+      "readmePath": "0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0409-longest-palindrome.cpp",
+          "path": "0409-longest-palindrome/0409-longest-palindrome.cpp",
+          "sha": "3d2254d122a7b3c0a07907cc35fc6c2e583f9ab5",
+          "lastSyncedAt": "2026-10-09T13:24:05.799Z"
         }
       ]
     }
