@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "topological-sort",
+    "name": "Topological Sort",
+    "tagId": "26"
+  },
+  "updatedAt": "2026-10-09T13:38:15.214Z",
+  "problems": [
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0210-course-schedule-ii.cpp",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
+          "sha": "86450b33677b7653a9f732ac48ab02ba9f569e5a",
+          "lastSyncedAt": "2026-10-09T13:38:15.214Z"
+        }
+      ]
+    }
+  ]
+}
