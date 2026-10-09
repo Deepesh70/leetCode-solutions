@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:32:21.052Z",
+  "updatedAt": "2026-10-09T13:35:41.883Z",
   "problems": [
     {
       "frontendId": "48",
@@ -24,6 +24,26 @@
           "path": "0048-rotate-image/0048-rotate-image.cpp",
           "sha": "560c114a2c7b2427bde85de8037e1008f696a90b",
           "lastSyncedAt": "2026-10-09T13:32:21.052Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "899",
+      "title": "Orderly Queue",
+      "slug": "orderly-queue",
+      "problemName": "0899-orderly-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/orderly-queue/",
+      "folderPath": "0899-orderly-queue/",
+      "readmePath": "0899-orderly-queue/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0899-orderly-queue.cpp",
+          "path": "0899-orderly-queue/0899-orderly-queue.cpp",
+          "sha": "71dd15ffe199b159426cad6038af7efb5ccb3a7c",
+          "lastSyncedAt": "2026-10-09T13:35:41.883Z"
         }
       ]
     }
