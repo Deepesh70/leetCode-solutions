@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-09T13:40:24.213Z",
+  "updatedAt": "2026-10-09T13:42:04.954Z",
   "problems": [
     {
       "frontendId": "207",
@@ -144,6 +144,26 @@
           "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
           "sha": "401f0ae56f9ef21c9822a1b5c4dbc409fbeab3ea",
           "lastSyncedAt": "2026-10-09T13:37:28.665Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3310-remove-methods-from-project.cpp",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
+          "sha": "e44b2b914bca22267c6230d45eb4326867c911a7",
+          "lastSyncedAt": "2026-10-09T13:42:04.954Z"
         }
       ]
     }
