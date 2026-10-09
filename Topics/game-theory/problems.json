@@ -5,8 +5,28 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-10-09T13:42:24.901Z",
+  "updatedAt": "2026-10-09T13:42:40.188Z",
   "problems": [
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "57bac44c3a751d3bc01dfb73ad71634482f13217",
+          "lastSyncedAt": "2026-10-09T13:42:40.188Z"
+        }
+      ]
+    },
     {
       "frontendId": "1140",
       "title": "Stone Game II",
