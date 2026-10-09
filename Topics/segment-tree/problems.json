@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "segment-tree",
+    "name": "Segment Tree",
+    "tagId": "29"
+  },
+  "updatedAt": "2026-10-09T13:40:07.723Z",
+  "problems": [
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2213-longest-substring-of-one-repeating-character.cpp",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
+          "sha": "7bcf49fde130a9f610fe080cef09bdac207e0178",
+          "lastSyncedAt": "2026-10-09T13:40:07.723Z"
+        }
+      ]
+    }
+  ]
+}
