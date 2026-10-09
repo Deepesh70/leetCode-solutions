@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:35:41.883Z",
+  "updatedAt": "2026-10-09T13:36:14.081Z",
   "problems": [
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0012-integer-to-roman.cpp",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.cpp",
+          "sha": "cf4b485717439d0f058bfb77814b6972159580d5",
+          "lastSyncedAt": "2026-10-09T13:36:14.081Z"
+        }
+      ]
+    },
     {
       "frontendId": "48",
       "title": "Rotate Image",
