@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T13:32:01.535Z",
+  "updatedAt": "2026-10-09T13:32:21.052Z",
   "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "560c114a2c7b2427bde85de8037e1008f696a90b",
+          "lastSyncedAt": "2026-10-09T13:32:21.052Z"
+        }
+      ]
+    },
     {
       "frontendId": "49",
       "title": "Group Anagrams",
