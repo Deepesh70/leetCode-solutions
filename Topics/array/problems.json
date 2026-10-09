@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T13:32:21.052Z",
+  "updatedAt": "2026-10-09T13:32:35.207Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0016-3sum-closest.cpp",
+          "path": "0016-3sum-closest/0016-3sum-closest.cpp",
+          "sha": "66a007b86ee53d6db2535ff7285e43f21d4bf9d7",
+          "lastSyncedAt": "2026-10-09T13:32:35.207Z"
+        }
+      ]
+    },
     {
       "frontendId": "48",
       "title": "Rotate Image",
