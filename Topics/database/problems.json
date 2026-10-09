@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-09T13:35:55.355Z",
+  "updatedAt": "2026-10-09T13:36:09.001Z",
   "problems": [
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "0197-rising-temperature/",
+      "readmePath": "0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0197-rising-temperature.sql",
+          "path": "0197-rising-temperature/0197-rising-temperature.sql",
+          "sha": "3fa3d4909bcc4a5050dca83249f5d33e333b26eb",
+          "lastSyncedAt": "2026-10-09T13:36:09.001Z"
+        }
+      ]
+    },
     {
       "frontendId": "570",
       "title": "Managers with at Least 5 Direct Reports",
