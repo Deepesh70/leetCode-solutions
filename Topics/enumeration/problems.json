@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-09T13:41:56.982Z",
+  "updatedAt": "2026-10-09T13:44:00.989Z",
   "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "0204-count-primes/0204-count-primes.cpp",
+          "sha": "9b8848c95bdbc9732726629292e89ac598449f19",
+          "lastSyncedAt": "2026-10-09T13:44:00.989Z"
+        }
+      ]
+    },
     {
       "frontendId": "2272",
       "title": "Substring With Largest Variance",
