@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:33:40.339Z",
+  "updatedAt": "2026-10-09T13:34:03.682Z",
   "problems": [
     {
       "frontendId": "28",
@@ -144,6 +144,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.cpp",
           "sha": "3d2254d122a7b3c0a07907cc35fc6c2e583f9ab5",
           "lastSyncedAt": "2026-10-09T13:31:26.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "472",
+      "title": "Concatenated Words",
+      "slug": "concatenated-words",
+      "problemName": "0472-concatenated-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenated-words/",
+      "folderPath": "0472-concatenated-words/",
+      "readmePath": "0472-concatenated-words/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0472-concatenated-words.cpp",
+          "path": "0472-concatenated-words/0472-concatenated-words.cpp",
+          "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
+          "lastSyncedAt": "2026-10-09T13:34:03.682Z"
         }
       ]
     },
