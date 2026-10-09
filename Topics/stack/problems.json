@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack",
+    "tagId": "15"
+  },
+  "updatedAt": "2026-10-09T13:32:45.567Z",
+  "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0042-trapping-rain-water.cpp",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.cpp",
+          "sha": "8039fbd0b3a49d79db599dea57f68b8b1902d386",
+          "lastSyncedAt": "2026-10-09T13:32:45.567Z"
+        }
+      ]
+    }
+  ]
+}
