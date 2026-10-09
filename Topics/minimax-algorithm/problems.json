@@ -5,8 +5,28 @@
     "name": "Minimax",
     "tagId": "35"
   },
-  "updatedAt": "2026-10-09T13:39:20.171Z",
+  "updatedAt": "2026-10-09T13:41:07.904Z",
   "problems": [
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "96eb878361730c18fc7bdab9d94c09a37678cc40",
+          "lastSyncedAt": "2026-10-09T13:41:07.904Z"
+        }
+      ]
+    },
     {
       "frontendId": "2029",
       "title": "Stone Game IX",
