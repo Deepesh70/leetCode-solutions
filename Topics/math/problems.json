@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:39:20.171Z",
+  "updatedAt": "2026-10-09T13:40:24.213Z",
   "problems": [
     {
       "frontendId": "12",
@@ -64,6 +64,26 @@
           "path": "0268-missing-number/0268-missing-number.cpp",
           "sha": "43a18db5b36793e311798adb4d15d803ad722d84",
           "lastSyncedAt": "2026-10-09T13:39:01.525Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "365",
+      "title": "Water and Jug Problem",
+      "slug": "water-and-jug-problem",
+      "problemName": "0365-water-and-jug-problem",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/water-and-jug-problem/",
+      "folderPath": "0365-water-and-jug-problem/",
+      "readmePath": "0365-water-and-jug-problem/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0365-water-and-jug-problem.cpp",
+          "path": "0365-water-and-jug-problem/0365-water-and-jug-problem.cpp",
+          "sha": "50d0bb6992968f4f1d9376943c6a69ab5c5b79b3",
+          "lastSyncedAt": "2026-10-09T13:40:24.213Z"
         }
       ]
     },
