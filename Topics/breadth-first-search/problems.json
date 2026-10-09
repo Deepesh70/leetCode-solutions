@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-09T13:38:37.695Z",
+  "updatedAt": "2026-10-09T13:40:24.213Z",
   "problems": [
     {
       "frontendId": "207",
@@ -44,6 +44,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
           "sha": "86450b33677b7653a9f732ac48ab02ba9f569e5a",
           "lastSyncedAt": "2026-10-09T13:38:15.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "365",
+      "title": "Water and Jug Problem",
+      "slug": "water-and-jug-problem",
+      "problemName": "0365-water-and-jug-problem",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/water-and-jug-problem/",
+      "folderPath": "0365-water-and-jug-problem/",
+      "readmePath": "0365-water-and-jug-problem/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0365-water-and-jug-problem.cpp",
+          "path": "0365-water-and-jug-problem/0365-water-and-jug-problem.cpp",
+          "sha": "50d0bb6992968f4f1d9376943c6a69ab5c5b79b3",
+          "lastSyncedAt": "2026-10-09T13:40:24.213Z"
         }
       ]
     },
