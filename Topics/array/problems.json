@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T13:42:14.821Z",
+  "updatedAt": "2026-10-09T13:42:24.901Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "b90b4b28e0aad32389620c66ca10bfda6fa69056",
           "lastSyncedAt": "2026-10-09T13:41:26.289Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1406-stone-game-iii.cpp",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.cpp",
+          "sha": "2f41bdbf75ca1793548f73108b1d577117828fb8",
+          "lastSyncedAt": "2026-10-09T13:42:24.901Z"
         }
       ]
     },
