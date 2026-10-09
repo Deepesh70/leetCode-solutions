@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T13:34:50.810Z",
+  "updatedAt": "2026-10-09T13:35:02.083Z",
   "problems": [
     {
       "frontendId": "28",
@@ -184,6 +184,26 @@
           "path": "0472-concatenated-words/0472-concatenated-words.cpp",
           "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
           "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "problemName": "0520-detect-capital",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+      "folderPath": "0520-detect-capital/",
+      "readmePath": "0520-detect-capital/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0520-detect-capital.cpp",
+          "path": "0520-detect-capital/0520-detect-capital.cpp",
+          "sha": "af24bc140c12b1d214ac87bd7886ff13991f8abe",
+          "lastSyncedAt": "2026-10-09T13:35:02.083Z"
         }
       ]
     },
