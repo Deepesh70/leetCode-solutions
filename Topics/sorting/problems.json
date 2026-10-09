@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-09T13:35:15.163Z",
+  "updatedAt": "2026-10-09T13:35:41.883Z",
   "problems": [
     {
       "frontendId": "15",
@@ -124,6 +124,26 @@
           "path": "0472-concatenated-words/0472-concatenated-words.cpp",
           "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
           "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "899",
+      "title": "Orderly Queue",
+      "slug": "orderly-queue",
+      "problemName": "0899-orderly-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/orderly-queue/",
+      "folderPath": "0899-orderly-queue/",
+      "readmePath": "0899-orderly-queue/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0899-orderly-queue.cpp",
+          "path": "0899-orderly-queue/0899-orderly-queue.cpp",
+          "sha": "71dd15ffe199b159426cad6038af7efb5ccb3a7c",
+          "lastSyncedAt": "2026-10-09T13:35:41.883Z"
         }
       ]
     },
