@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-09T13:34:21.827Z",
+  "problems": [
+    {
+      "frontendId": "93",
+      "title": "Restore IP Addresses",
+      "slug": "restore-ip-addresses",
+      "problemName": "0093-restore-ip-addresses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
+      "folderPath": "0093-restore-ip-addresses/",
+      "readmePath": "0093-restore-ip-addresses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0093-restore-ip-addresses.cpp",
+          "path": "0093-restore-ip-addresses/0093-restore-ip-addresses.cpp",
+          "sha": "e52449a766ced50f1342ef5043c36e49b56e65ca",
+          "lastSyncedAt": "2026-10-09T13:34:21.827Z"
+        }
+      ]
+    }
+  ]
+}
