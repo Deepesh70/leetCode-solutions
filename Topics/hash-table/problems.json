@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-09T13:36:29.221Z",
+  "updatedAt": "2026-10-09T13:38:52.978Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "2272-substring-with-largest-variance/2272-substring-with-largest-variance.cpp",
           "sha": "6a40cb04e3b784b024501518d6a0601d2ceb0d88",
           "lastSyncedAt": "2026-10-09T13:33:14.496Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3471",
+      "title": "Find the Largest Almost Missing Integer",
+      "slug": "find-the-largest-almost-missing-integer",
+      "problemName": "3471-find-the-largest-almost-missing-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+      "folderPath": "3471-find-the-largest-almost-missing-integer/",
+      "readmePath": "3471-find-the-largest-almost-missing-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3471-find-the-largest-almost-missing-integer.cpp",
+          "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
+          "sha": "0a0f0127e571cd3b84ff611516c59482e1b05f19",
+          "lastSyncedAt": "2026-10-09T13:38:52.978Z"
         }
       ]
     }
