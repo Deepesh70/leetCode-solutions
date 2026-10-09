@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-09T13:34:03.682Z",
+  "updatedAt": "2026-10-09T13:35:15.163Z",
   "problems": [
     {
       "frontendId": "15",
@@ -124,6 +124,26 @@
           "path": "0472-concatenated-words/0472-concatenated-words.cpp",
           "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
           "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1657-determine-if-two-strings-are-close.cpp",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp",
+          "sha": "c0e0358c96d5aea365c88423891d1b646446415d",
+          "lastSyncedAt": "2026-10-09T13:35:15.163Z"
         }
       ]
     }
