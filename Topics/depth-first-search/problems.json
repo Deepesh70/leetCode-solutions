@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-09T13:37:28.665Z",
+  "updatedAt": "2026-10-09T13:37:57.756Z",
   "problems": [
     {
       "frontendId": "472",
@@ -24,6 +24,26 @@
           "path": "0472-concatenated-words/0472-concatenated-words.cpp",
           "sha": "e004f51eed5f6de6ae080a2170a7c7cdf806326a",
           "lastSyncedAt": "2026-10-09T13:34:03.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0785-is-graph-bipartite.cpp",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.cpp",
+          "sha": "d41e358cb4764253400187fc50c194600c93736f",
+          "lastSyncedAt": "2026-10-09T13:37:57.756Z"
         }
       ]
     },
