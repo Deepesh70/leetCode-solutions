@@ -5,8 +5,28 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-11T10:53:56.945Z",
+  "updatedAt": "2026-10-11T11:05:56.314Z",
   "problems": [
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0104-maximum-depth-of-binary-tree.cpp",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
+          "sha": "21e607ff8da34baca7a69511f4b96119051bca49",
+          "lastSyncedAt": "2026-10-11T11:05:56.314Z"
+        }
+      ]
+    },
     {
       "frontendId": "226",
       "title": "Invert Binary Tree",
