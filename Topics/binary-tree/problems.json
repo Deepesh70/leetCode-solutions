@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-tree",
+    "name": "Binary Tree",
+    "tagId": "61057"
+  },
+  "updatedAt": "2026-10-11T10:53:56.945Z",
+  "problems": [
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "0226-invert-binary-tree/",
+      "readmePath": "0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0226-invert-binary-tree.cpp",
+          "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
+          "sha": "d7afdb5b26b350d7878935f9282880fe5e78cc0b",
+          "lastSyncedAt": "2026-10-11T10:53:56.945Z"
+        }
+      ]
+    }
+  ]
+}
