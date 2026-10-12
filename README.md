@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 35 | 30 | 8 |
+| 74 | 35 | 31 | 8 |
 
 ## Activity
 
@@ -28,7 +28,7 @@
 | 2026-10-07 | 1 |
 | 2026-10-08 | 2 |
 | 2026-10-11 | 2 |
-| 2026-10-12 | 2 |
+| 2026-10-12 | 3 |
 
 ## Top Tags
 
@@ -36,12 +36,12 @@
 | --- | ---: | ---: |
 | String | 30 | 41% |
 | Array | 25 | 34% |
-| Hash Table | 21 | 29% |
+| Hash Table | 21 | 28% |
 | Math | 14 | 19% |
 | Sorting | 13 | 18% |
+| Depth-First Search | 12 | 16% |
 | Breadth-First Search | 11 | 15% |
 | Database | 11 | 15% |
-| Depth-First Search | 11 | 15% |
 | Dynamic Programming | 9 | 12% |
 | Two Pointers | 8 | 11% |
 
@@ -52,8 +52,9 @@
 | [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Bézout's Lemma](Topics/bezouts-lemma/) | 1 |
+| [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 5 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -63,7 +64,7 @@
 | [Counting](Topics/counting/) | 7 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 11 |
-| [Depth-First Search](Topics/depth-first-search/) | 11 |
+| [Depth-First Search](Topics/depth-first-search/) | 12 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 3 |
@@ -78,6 +79,7 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Lexicographically Minimal String Rotation](Topics/lexicographically-minimal-string-rotation/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
+| [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 6 |
@@ -95,7 +97,7 @@
 | [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 4 |
+| [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 | [Union-Find](Topics/union-find/) | 4 |
