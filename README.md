@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 35 | 29 | 8 |
+| 73 | 35 | 30 | 8 |
 
 ## Activity
 
@@ -28,21 +28,21 @@
 | 2026-10-07 | 1 |
 | 2026-10-08 | 2 |
 | 2026-10-11 | 2 |
-| 2026-10-12 | 1 |
+| 2026-10-12 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 30 | 42% |
-| Array | 25 | 35% |
+| String | 30 | 41% |
+| Array | 25 | 34% |
 | Hash Table | 21 | 29% |
 | Math | 14 | 19% |
 | Sorting | 13 | 18% |
+| Breadth-First Search | 11 | 15% |
 | Database | 11 | 15% |
 | Depth-First Search | 11 | 15% |
-| Breadth-First Search | 10 | 14% |
-| Dynamic Programming | 9 | 13% |
+| Dynamic Programming | 9 | 12% |
 | Two Pointers | 8 | 11% |
 
 ## Topics
@@ -53,11 +53,11 @@
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Bézout's Lemma](Topics/bezouts-lemma/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 4 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 10 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 7 |
@@ -95,7 +95,7 @@
 | [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 3 |
+| [Tree](Topics/tree/) | 4 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 | [Union-Find](Topics/union-find/) | 4 |
