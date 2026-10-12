@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-12T08:36:47.339Z",
+  "updatedAt": "2026-10-12T09:47:58.804Z",
   "problems": [
     {
       "frontendId": "100",
@@ -24,6 +24,26 @@
           "path": "0100-same-tree/0100-same-tree.cpp",
           "sha": "3871b9b60ca73e8918fb6971dc2aefbbe8b81514",
           "lastSyncedAt": "2026-10-12T08:36:47.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0102-binary-tree-level-order-traversal.cpp",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp",
+          "sha": "2559d275ca9722e48dabd8621b9c5961fa1d57e4",
+          "lastSyncedAt": "2026-10-12T09:47:58.804Z"
         }
       ]
     },
