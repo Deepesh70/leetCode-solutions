@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-12T11:45:40.805Z",
+  "updatedAt": "2026-10-16T14:01:40.706Z",
   "problems": [
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "2a720827bd5eef7a2f5f60533f9a0306329fee47",
+          "lastSyncedAt": "2026-10-16T14:01:40.706Z"
+        }
+      ]
+    },
     {
       "frontendId": "100",
       "title": "Same Tree",
