@@ -5,18 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 35 | 31 | 8 |
+| 76 | 35 | 33 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 10 days | 47 |
+| 1 days | 10 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-28 | 4 |
-| 2026-08-31 | 4 |
 | 2026-09-01 | 3 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 1 |
@@ -29,19 +27,21 @@
 | 2026-10-08 | 2 |
 | 2026-10-11 | 2 |
 | 2026-10-12 | 3 |
+| 2026-10-16 | 1 |
+| 2026-10-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 30 | 41% |
-| Array | 25 | 34% |
+| String | 30 | 39% |
+| Array | 26 | 34% |
 | Hash Table | 21 | 28% |
-| Math | 14 | 19% |
-| Sorting | 13 | 18% |
-| Depth-First Search | 12 | 16% |
-| Breadth-First Search | 11 | 15% |
-| Database | 11 | 15% |
+| Depth-First Search | 14 | 18% |
+| Math | 14 | 18% |
+| Sorting | 13 | 17% |
+| Breadth-First Search | 12 | 16% |
+| Database | 11 | 14% |
 | Dynamic Programming | 9 | 12% |
 | Two Pointers | 8 | 11% |
 
@@ -49,12 +49,13 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Bézout's Lemma](Topics/bezouts-lemma/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 5 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 6 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -64,7 +65,7 @@
 | [Counting](Topics/counting/) | 7 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 11 |
-| [Depth-First Search](Topics/depth-first-search/) | 12 |
+| [Depth-First Search](Topics/depth-first-search/) | 14 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 3 |
@@ -81,7 +82,7 @@
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 15 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 6 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Nim Game](Topics/nim-game/) | 2 |
@@ -97,10 +98,10 @@
 | [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 5 |
+| [Tree](Topics/tree/) | 6 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
-| [Union-Find](Topics/union-find/) | 4 |
+| [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 6 |
 <!---LeetHub Summary End-->
